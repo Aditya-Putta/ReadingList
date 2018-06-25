@@ -1,4 +1,4 @@
-# myBooks
+# ReadingList
 
 ```bash
 .
@@ -56,75 +56,6 @@
 │   │   ├── bonds.R
 │   │   ├── bugsfiles.zip
 │   │   ├── datasets
-│   │   │   ├── AirPassengers.csv
-│   │   │   ├── AlphaBeta.csv
-│   │   │   ├── berndtInvest.csv
-│   │   │   ├── bmw.csv
-│   │   │   ├── bmwRet.csv
-│   │   │   ├── bondprices.txt
-│   │   │   ├── capm2.csv
-│   │   │   ├── Capm.csv
-│   │   │   ├── CokePepsi.csv
-│   │   │   ├── countries.txt
-│   │   │   ├── CPI.csv
-│   │   │   ├── CPI.dat.csv
-│   │   │   ├── CPS1988.csv
-│   │   │   ├── CreditCard.csv
-│   │   │   ├── cree.csv
-│   │   │   ├── CRSPday.csv
-│   │   │   ├── CRSPmon.csv
-│   │   │   ├── DefaultData.txt
-│   │   │   ├── DowJones30.csv
-│   │   │   ├── Earnings.csv
-│   │   │   ├── equityFunds.csv
-│   │   │   ├── EuStockMarket.csv
-│   │   │   ├── EuStockMarkets.csv
-│   │   │   ├── FamaFrenchDaily.txt
-│   │   │   ├── FamaFrench_mon_69_98.txt
-│   │   │   ├── FlowData.csv
-│   │   │   ├── ford.csv
-│   │   │   ├── FourStocks_Daily2013.csv
-│   │   │   ├── FrozenJuice.csv
-│   │   │   ├── Garch.csv
-│   │   │   ├── GPRO.csv
-│   │   │   ├── HousePrices.csv
-│   │   │   ├── Hstarts.csv
-│   │   │   ├── IBM_SP500_04_14_daily_netRtns.csv
-│   │   │   ├── Icecream.csv
-│   │   │   ├── IncomeUK.csv
-│   │   │   ├── IP.csv
-│   │   │   ├── IP.dat.csv
-│   │   │   ├── Irates.csv
-│   │   │   ├── KelvinFlowData.csv
-│   │   │   ├── MacroVars.csv
-│   │   │   ├── MCD_PriceDaily.csv
-│   │   │   ├── midcapD.csv
-│   │   │   ├── midcapD.ts.csv
-│   │   │   ├── Mishkin.csv
-│   │   │   ├── mk.maturity.csv
-│   │   │   ├── mk.zero2.csv
-│   │   │   ├── msft.csv
-│   │   │   ├── nelsonplosser.csv
-│   │   │   ├── prog.R
-│   │   │   ├── RecentFord.csv
-│   │   │   ├── siemens.csv
-│   │   │   ├── S&P500.csv
-│   │   │   ├── SP500.csv
-│   │   │   ├── S&P500_new.csv
-│   │   │   ├── Stock_Bond_2004_to_2006.csv
-│   │   │   ├── Stock_Bond.csv
-│   │   │   ├── Stock_FX_Bond_2004_to_2005.csv
-│   │   │   ├── Stock_FX_Bond_2004_to_2006.csv
-│   │   │   ├── Stock_FX_Bond.csv
-│   │   │   ├── strips_dec95.txt
-│   │   │   ├── TbGdpPi.csv
-│   │   │   ├── Tbrate.csv
-│   │   │   ├── treasury_yields.txt
-│   │   │   ├── USMacroG.csv
-│   │   │   ├── WeekInt.txt
-│   │   │   ├── WeeklyInterest.txt
-│   │   │   ├── yields.txt
-│   │   │   └── ZeroPrices.txt
 │   │   ├── datasets.zip
 │   │   ├── EDA.R
 │   │   ├── my.R
@@ -160,4 +91,3 @@
     ├── (Developer’s Library) Stephen G. Kochan, Patrick Wood-Shell Programming in Unix, Linux and OS X-Addison-Wesley Professional (2016).pdf
     ├── W. Richard Stevens, Stephen A. Rago Advanced Programming in the UNIX Environment.pdf
     └── W. Richard Stevens, Stephen A. Rago Advanced Programming in the UNIX R Environment.pdf
-```
