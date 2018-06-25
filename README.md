@@ -2,8 +2,6 @@
 
 ```bash
 .
-├── C
-│   └── Stephen G. Kochan Programming in C.epub
 ├── C++
 ├── DataScience
 │   ├── (Advances in Intelligent Systems and Computing 456) Maria Brigida Ferraro, Paolo Giordani, Barbara Vantaggi, Marek Gagolewski, María Ángeles Gil, Przemysław Grzegorzewski, Olgierd Hryniewicz (eds.)-So.pdf
@@ -18,7 +16,6 @@
 │   ├── High-frequency trading - a practical guide to algorithmic strategies and trading systems.pdf
 │   ├── High-frequency Trading.pdf
 │   └── [Zhaodong_Wang,_Weian_Zheng]_High-Frequency_Tradining_and_Probability_Theory.pdf
-├── MySQL
 ├── Python
 │   ├── Automate the Boring Stuff with Python.pdf
 │   ├── Daniel Y. Chen-Pandas for Everyone.  Python Data Analysis-Addison-Wesley Professional (2017).pdf
@@ -142,22 +139,6 @@
 │   ├── Trading and Exchanges Market Microstructure for Practitioners .pdf
 │   ├── (Wiley Finance) Wesley R. Gray, Jack R. Vogel-Quantitative Momentum_ A Practitioner’s Guide to Building a Momentum-Based Stock Selection System-Wiley (2016).pdf
 │   └── (Wiley Trading) Ernest P. Chan-Machine Trading_ Deploying Computer Algorithms to Conquer the Markets-Wiley (2017).pdf
-├── R
-│   ├── Data Analysis with R.pdf
-│   ├── efficient-master.zip
-│   ├── Efficient_R_Programming_A_Practical_Guide_to_Smarter_Programming.pdf
-│   ├── Efficient R Programming.pdf
-│   ├── [Hadley_Wickham_(auth.)]_ggplot2_Elegant_Graphics(b-ok.org).pdf
-│   ├── Hadley Wickham, Garrett Grolemund-R for Data Science_ Import, Tidy, Transform, Visualize, and Model Data-O’Reilly Media (2017).pdf
-│   ├── Learning_R_Programming_－_Become_an_efficient_data_scientist_with_R.pdf
-│   ├── N.D Lewis-Deep Learning Made Easy with R_ A Gentle Introduction For Data Science-CreateSpace Independent Publishing Platform (2016).pdf
-│   ├── Raja B. Koushik, Sharan Kumar Ravindran-R Data Science Essentials-Packt (2016).pdf
-│   ├── Thomas Mailund (auth.)-Advanced Object-Oriented Programming in R_ Statistical Programming for Data Science, Analysis and Finance-Apress (2017).pdf
-│   ├── Thomas Mailund (auth.)-Metaprogramming in R_ Advanced Statistical Programming for Data Science, Analysis and Finance-Apress (2017).pdf
-│   ├── Thomas Mailund-Beginning Data Science in R_ Data Analysis, Visualization, and Modelling for the Data Scientist-Apress (2017).pdf
-│   └── Thomas Mailund-Functional Programming in R. Advanced Statistical Programming for Data Science, Analysis and Finance-Apress (2017).pdf
-├── Social
-│   └── 万历十五年.mobi
 ├── Stat
 │   ├── Advanced Linear Modeling.pdf
 │   ├── All Figures.zip
